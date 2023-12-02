@@ -1,3 +1,12 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/ramansharma-1504/Kidney_Tumor_DeepLearning_MLFlow_DVC
+Author: ramansharma-1504
+Author-email: ramansharma780@gmail.com
+Project-URL: Bug Tracker, https://github.com/ramansharma-1504/Kidney_Tumor_DeepLearning_MLFlow_DVC/issues
+
 # Kidney_Tumor_DeepLearning_MLFlow_DVC
 
 
